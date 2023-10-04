@@ -1,6 +1,6 @@
 import { Project, EmployeeSummary } from './project.api-model';
 
-const mockEmployeeSummaryList: EmployeeSummary[] = [
+export const mockEmployeeSummaryList: EmployeeSummary[] = [
   {
     id: '1',
     employeeName: 'Daniel Perez',
